@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How do I reset my password?",
+        "expected_answer": "Use the self service password reset portal from the employee dashboard."
+    },
+    {
+        "question": "How can I access VPN?",
+        "expected_answer": "Install VPN client and login using company credentials."
+    },
+    {
+        "question": "How do I request a laptop?",
+        "expected_answer": "Create a request through the IT service portal."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "expected_answer": "Submit leave requests through the HRMS portal."
+    },
+    {
+        "question": "What is the Password Policy?",
+        "expected_answer": "Passwords must be changed every 90 days."
+    }
+]

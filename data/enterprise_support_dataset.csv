@@ -1,0 +1,21 @@
+query,answer,category
+
+How do I reset my password?,Use the self service password reset portal from the employee dashboard.,Password
+
+How can I access VPN?,Install VPN client and login using company credentials.,Network
+
+How do I request a laptop?,Create a request through the IT service portal.,Hardware
+
+How do I install software?,Submit a software installation request for approval.,Software
+
+My email is not working,Restart Outlook and verify mailbox configuration.,Email
+
+How do I unlock my account?,Contact the IT helpdesk or use the account recovery portal.,Account
+
+How can I raise a support ticket?,Login to the ITSM portal and create a new ticket.,Support
+
+How do I update employee details?,Use the HR portal and edit your profile information.,HR
+
+How can I apply for leave?,Submit leave requests through the HRMS portal.,HR
+
+How do I access company systems remotely?,Use VPN and MFA authentication for secure access.,Remote Access

@@ -1,0 +1,21 @@
+policy_name,description
+
+Password Policy,Passwords must be changed every 90 days.
+
+Remote Work Policy,Employees may work remotely with manager approval.
+
+Leave Policy,Leave requests must be submitted through HRMS.
+
+Data Security Policy,Sensitive company information must not be shared externally.
+
+Access Control Policy,System access is granted based on job responsibilities.
+
+VPN Usage Policy,VPN access is mandatory for remote system access.
+
+Software Installation Policy,Unauthorized software installations are prohibited.
+
+Email Usage Policy,Company email should be used for official communication only.
+
+Incident Reporting Policy,Security incidents must be reported immediately.
+
+Device Management Policy,Company devices should follow security compliance standards.

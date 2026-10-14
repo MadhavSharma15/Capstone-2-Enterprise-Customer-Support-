@@ -1,0 +1,21 @@
+ticket_id,issue,resolution
+
+T001,Email not syncing,Mailbox profile recreated successfully
+
+T002,VPN connection issue,VPN profile updated and access restored
+
+T003,Password expired,Password reset completed
+
+T004,Account locked,User account unlocked
+
+T005,Laptop performance issue,Disk cleanup and memory optimization performed
+
+T006,Software installation request,Application installed after approval
+
+T007,Printer issue,Printer driver reinstalled
+
+T008,Network connectivity issue,Network adapter reset performed
+
+T009,Remote access issue,MFA device reconfigured
+
+T010,Email delivery failure,Mail routing service restarted
